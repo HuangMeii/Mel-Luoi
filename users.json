@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin",
+        "assigned_events": []
+    },
+    "test": {
+        "password": "test",
+        "role": "user",
+        "assigned_events": []
+    }
+}
