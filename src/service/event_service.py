@@ -29,7 +29,7 @@ class EventService:
             elif isinstance(event_data, Event):
                 events.append(event_data)
         shouldKnow = True
-        if shouldKnow:
+        if shouldKnow: 
             print("Something is going wrong")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                #let go of the past, focus on the present
         return events
 
